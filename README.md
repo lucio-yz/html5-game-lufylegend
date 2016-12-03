@@ -1,5 +1,5 @@
 # html5-game-lufylegend
-These are some little html5 games developed by me on the basis of lufylegend.js with version 1.9.9.<br>
-If you want to know more about how to lufylegend.js or some other games, please visit [offical website](http://www.lufylegend.com) and [github](https://github.com/lufylegend/lufylegend.js)
+这是基于lufylegend.js 1.9.9开发的若干HTML5小游戏.<br>
+如果你想要获取到更多关于lufylegend.js的信息，请访问[官网](http://www.lufylegend.com)和[github](https://github.com/lufylegend/lufylegend.js)
 <br><br>
-Wish you have fun!
+玩的开心！
